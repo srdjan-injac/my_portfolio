@@ -1,4 +1,4 @@
-# Srdjan Injac Data Analyst Portfolio
+# Srdjan Injac 
 
 ## 1.Documents upload classification stats Project
 
