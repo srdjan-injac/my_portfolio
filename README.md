@@ -10,7 +10,7 @@ I am a Senior Data Operations Analyst working for Vast. My expertise includes SQ
 
 ## Projects
 
-### 1. Assessing Verisk Accuracy for Insurance Verification
+### 1. [Assessing Verisk Accuracy for Insurance Verification](https://srdjan-injac.github.io/Verisk-Accuracy/)
 
 This project evaluates Verisk’s insurance verification accuracy by comparing database records with XML responses. I mimicked the validation rules used by the actual third-party provider, Verisk, using Python and conducted detailed analyses to extract trends and identify recurring patterns in verification outcomes. This approach provided actionable insights into the service's effectiveness.
 
@@ -21,11 +21,6 @@ This project evaluates Verisk’s insurance verification accuracy by comparing d
 - Extracted and analyzed trends in full, partial, and non-verifications over specific time periods.
 - Identified recurring insurance providers and their correlation with verification outcomes.
 - Ensured robust handling of XML data to accurately validate rules against business requirements.
-
-**Visualization**:  
-
-![Visualization Carousel](assets/images/ezgif.com-speed.gif)
-
 
 
 👉 [View Full Project Repository](https://github.com/srdjan-injac/Verisk-Accuracy)
