@@ -38,27 +38,6 @@ _Trends in verification outcomes over specific periods._
   </div>
 </section>
 
-<!-- Carousel JavaScript -->
-<script>
-  const imagesContainer = document.getElementById('carousel-images');
-  const totalImages = imagesContainer.children.length;
-  let currentIndex = 0;
-
-  function updateCarousel() {
-    const offset = -currentIndex * 100;
-    imagesContainer.style.transform = `translateX(${offset}%)`;
-  }
-
-  function prevSlide() {
-    currentIndex = (currentIndex - 1 + totalImages) % totalImages;
-    updateCarousel();
-  }
-
-  function nextSlide() {
-    currentIndex = (currentIndex + 1) % totalImages;
-    updateCarousel();
-  }
-</script>
 
 
 👉 [View Full Project Repository](https://github.com/srdjan-injac/Verisk-Accuracy)
