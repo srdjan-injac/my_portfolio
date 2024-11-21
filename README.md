@@ -29,7 +29,7 @@ _Trends in verification outcomes over specific periods._
   <div class="carousel">
     <div class="carousel-images" id="carousel-images">
       <img src="assets/images/aj_probaj.png" alt="Graph 1">
-      <img src="assets/images/compressed_graph.png" alt="Graph 2">
+      <img src="assets/images/over_time_verisk.png" alt="Graph 2">
     </div>
   </div>
   <div class="carousel-buttons">
