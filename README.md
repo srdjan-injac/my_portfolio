@@ -22,5 +22,3 @@ This project evaluates Verisk’s insurance verification accuracy by comparing d
 - Identified recurring insurance providers and their correlation with verification outcomes.
 - Ensured robust handling of XML data to accurately validate rules against business requirements.
 
-
-👉 [View Full Project Repository](https://github.com/srdjan-injac/Verisk-Accuracy)
