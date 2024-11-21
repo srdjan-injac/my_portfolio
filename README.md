@@ -29,7 +29,7 @@ This project evaluates Verisk’s insurance verification accuracy by comparing d
 
 This project focused on analyzing user responses and document classification accuracy on Vroom website. Users uploaded various documents, which were classified using OCR. Incorrect documents triggered error messages, prompting users to take action. The goal was to generate weekly and monthly statistics on user responses and evaluate the accuracy of the document classification system.
 
-**Key Technologies: Python, SQL
+**Key Technologies**: Python, SQL, OCR
 
 **Highlights**:
 - Generated **weekly and monthly statistics** on user behavior and response patterns:
