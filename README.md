@@ -1,3 +1,4 @@
+## Srdjan Injac
 
 Welcome to my portfolio! This repository highlights my skills as a data analyst and showcases my key projects. Each project includes a detailed description, visualizations, and a link to its corresponding GitHub repository.
 
