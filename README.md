@@ -24,5 +24,7 @@ This project evaluates Verisk’s insurance verification accuracy by comparing d
 
 **Visualization**:  
 _Trends in verification outcomes over specific periods._  
+![Alt Text](assets/images/over_time_verisk.png)
+
 
 👉 [View Full Project Repository](https://github.com/srdjan-injac/Verisk-Accuracy)
