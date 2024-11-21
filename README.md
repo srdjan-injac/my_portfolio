@@ -24,7 +24,41 @@ This project evaluates Verisk’s insurance verification accuracy by comparing d
 
 **Visualization**:  
 _Trends in verification outcomes over specific periods._  
-![Alt Text](assets/images/compressed_graph.png) ![Alt Text](assets/images/aj_probaj.png)
+<section id="carousel">
+  <h2>Project Visualizations</h2>
+  <div class="carousel">
+    <div class="carousel-images" id="carousel-images">
+      <img src="assets/images/aj_probaj.png" alt="Graph 1">
+      <img src="assets/images/compressed_graph.png" alt="Graph 2">
+    </div>
+  </div>
+  <div class="carousel-buttons">
+    <button onclick="prevSlide()">Previous</button>
+    <button onclick="nextSlide()">Next</button>
+  </div>
+</section>
+
+<!-- Carousel JavaScript -->
+<script>
+  const imagesContainer = document.getElementById('carousel-images');
+  const totalImages = imagesContainer.children.length;
+  let currentIndex = 0;
+
+  function updateCarousel() {
+    const offset = -currentIndex * 100;
+    imagesContainer.style.transform = `translateX(${offset}%)`;
+  }
+
+  function prevSlide() {
+    currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+    updateCarousel();
+  }
+
+  function nextSlide() {
+    currentIndex = (currentIndex + 1) % totalImages;
+    updateCarousel();
+  }
+</script>
 
 
 👉 [View Full Project Repository](https://github.com/srdjan-injac/Verisk-Accuracy)
