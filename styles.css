@@ -1,0 +1,45 @@
+/* Carousel container */
+.carousel {
+  width: 80%; /* Adjust the size as needed */
+  margin: 20px auto;
+  overflow: hidden; /* Hide images outside the viewport */
+  position: relative;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Images container */
+.carousel-images {
+  display: flex;
+  transition: transform 0.5s ease; /* Smooth sliding animation */
+  width: 300%; /* Adjust width to fit all images */
+}
+
+/* Individual image */
+.carousel-images img {
+  width: 100%; /* Each image takes up 100% of the container width */
+  height: auto;
+  flex-shrink: 0;
+}
+
+/* Navigation buttons */
+.carousel-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.carousel-buttons button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.carousel-buttons button:hover {
+  background-color: #0056b3;
+}
