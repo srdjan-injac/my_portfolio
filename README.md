@@ -23,3 +23,18 @@ This project evaluates Verisk’s insurance verification accuracy by comparing d
 - Identified recurring insurance providers and their correlation with verification outcomes.
 - Ensured robust handling of XML data to accurately validate rules against business requirements.
 
+---
+
+### 2. Document Response and Classification Analysis
+
+This project focused on analyzing user responses and document classification accuracy on Vroom website. Users uploaded various documents, which were classified using OCR. Incorrect documents triggered error messages, prompting users to take action. The goal was to generate weekly and monthly statistics on user responses and evaluate the accuracy of the document classification system.
+
+**Key Technologies: Python, SQL
+
+**Highlights**:
+- Generated **weekly and monthly statistics** on user behavior and response patterns:
+  - Re-uploading corrected documents.
+  - Retrying with the same document.
+  - No response to error messages.
+- Evaluated document classification accuracy to support **continuous improvement**.
+- Identified trends in user response rates, **highlighting areas for optimization**.
