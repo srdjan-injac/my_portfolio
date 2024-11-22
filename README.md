@@ -41,6 +41,20 @@ This project focused on analyzing user responses and document classification acc
 
 ---
 
+### 3. Analyzing Carlton’s Tax and Fee Calculations
+
+This project assessed the accuracy of Carlton’s tax and fee estimations by comparing them against itemized DMV data extracted using OCR from document scans. The analysis was requested by the business to evaluate whether Carlton’s tax estimation services are accurate and reliable enough to be utilized for calculating taxes and fees for dealers and applicants.
+
+**Key Technologies**: Python, SQL, OCR, XML Parsing
+
+**Highlights**:
+- Extracted DMV-reported tax and fee values from scanned documents using OCR and compared them to Carlton's estimates.
+- **Identified average, maximum, and minimum discrepancies** in both tax and fee datasets.
+- Visualized discrepancies with box plots and histograms to uncover outliers and trends.
+- **Highlighted potential mismatches** in reporting and calculation methods between the datasets.
+
+---
+
 ### 4. [Evaluating Insurance Policy Continuity with Verisk](https://srdjan-injac.github.io/active_insurance_policies/)
 
 This project assessed the utility of Verisk's insurance data in verifying applicant insurance policies and predicting future policy continuity. The analysis focused on determining the continuity and cancellation history of insurance policies by examining transaction records, renewal patterns, and VIN matches and evaluated the relationship between prior active policies and future policy behavior. The findings highlighted the predictive value of historical policy continuity for risk mitigation.
