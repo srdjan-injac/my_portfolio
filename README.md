@@ -41,14 +41,15 @@ This project focused on analyzing user responses and document classification acc
 
 ---
 
-### 3. Evaluating Insurance Policy Continuity with Verisk
+### 4. [Evaluating Insurance Policy Continuity with Verisk](https://srdjan-injac.github.io/active_insurance_policies/)
 
-This project aimed to evaluate Verisk's utility in verifying applicant insurance policies for funded deals. The analysis focused on determining the continuity and cancellation history of insurance policies by examining transaction records, renewal patterns, and VIN matches. Insights from this analysis helped assess the reliability of Verisk data for additional use cases in insurance verification.
+This project assessed the utility of Verisk's insurance data in verifying applicant insurance policies and predicting future policy continuity. The analysis focused on determining the continuity and cancellation history of insurance policies by examining transaction records, renewal patterns, and VIN matches and evaluated the relationship between prior active policies and future policy behavior. The findings highlighted the predictive value of historical policy continuity for risk mitigation.
 
 **Key Technologies**: Python, SQL, JSON Parsing
 
 **Highlights**:
 - **Analyzed historical insurance policies** for VIN matches and cancellation patterns.
 - Identified continuous insurance policies with no cancellation history.
-- **Categorized policies** into "old" and "new" based on VIN matches for actionable insights.
+- Categorized policies into based on VIN matches for actionable insights.
+- Demonstrated that applicants with prior active policies were significantly **more likely to maintain future insurance coverage**.
 
