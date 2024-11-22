@@ -62,7 +62,7 @@ This project assessed the utility of Verisk's insurance data in verifying applic
 - Categorized policies based on policy activity and VIN matches for actionable insights.
 - Demonstrated that applicants with prior active policies were significantly **more likely to maintain future insurance coverage**.
 
-**=======================================================================================**
+**==================================================================================**
 
 ## Course Projects
 
@@ -75,11 +75,11 @@ Projects completed during online courses, showcasing my learning:
 - **IPL Sports Case Study**
 - **Youtube Text Data Analysis**
 
-**=======================================================================================**
+**==================================================================================**
 
 ## Personal Projects
 
 - **Analysis of Greatest Year in films**
 - **NFL Teams Analysis**
 
-**=======================================================================================**
+**==================================================================================**
