@@ -50,6 +50,6 @@ This project assessed the utility of Verisk's insurance data in verifying applic
 **Highlights**:
 - **Analyzed historical insurance policies** for VIN matches and cancellation patterns.
 - Identified continuous insurance policies with no cancellation history.
-- Categorized policies into based on VIN matches for actionable insights.
+- Categorized policies based on policy activity and VIN matches for actionable insights.
 - Demonstrated that applicants with prior active policies were significantly **more likely to maintain future insurance coverage**.
 
