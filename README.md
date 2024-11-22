@@ -41,7 +41,7 @@ This project focused on analyzing user responses and document classification acc
 
 ---
 
-### 3. Analyzing Carlton’s Tax and Fee Calculations
+### 3. [Analyzing Carlton’s Tax and Fee Calculations](https://srdjan-injac.github.io/carlton_tax_accuracy/)
 
 This project assessed the accuracy of Carlton’s tax and fee estimations by comparing them against itemized DMV data extracted using OCR from document scans. The analysis was requested by the business to evaluate whether Carlton’s tax estimation services are accurate and reliable enough to be utilized for calculating taxes and fees for dealers and applicants.
 
