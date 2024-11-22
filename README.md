@@ -69,7 +69,7 @@ This project assessed the utility of Verisk's insurance data in verifying applic
 Projects completed during online courses, showcasing my learning:
 
 - **Linear Regression Project**
-- **S&P 500 Time Series Project**
+- [**S&P 500 Time Series Project**](https://github.com/srdjan-injac/course_projects/tree/main/s%26p_timeseries)
 - **Zomato Geospatial Analysis**
 - **E-commerce Sales Data Analysis**
 - **IPL Sports Case Study**
