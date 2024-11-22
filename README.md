@@ -1,10 +1,10 @@
 ## Welcome to my portfolio
 
-This repository highlights my skills as a data analyst and features four key projects, each with its own dedicated GitHub Pages site for detailed descriptions, visualizations, and insights.Additionally it includes a collection of course projects and personal projects that demonstrate my continued learning and exploration of data analysis concepts.
+This repository highlights my skills as a data analyst and features four key projects, each with its own dedicated page for detailed descriptions, visualizations, and insights.Additionally it includes a collection of course projects and personal projects that demonstrate my continued learning and exploration of data analysis concepts.
 
 ---
 
-## Projects
+## Key Projects
 
 ### 1. [Assessing Verisk Accuracy for Insurance Verification](https://srdjan-injac.github.io/Verisk-Accuracy/)
 
