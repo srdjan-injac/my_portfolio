@@ -70,16 +70,16 @@ Projects completed during online courses, showcasing my learning:
 
 - **Linear Regression Project**
 - [**S&P 500 Time Series Project**](https://github.com/srdjan-injac/course_projects/tree/main/s%26p_timeseries)
-- **Zomato Geospatial Analysis**
-- **E-commerce Sales Data Analysis**
-- **IPL Sports Case Study**
-- **Youtube Text Data Analysis**
+- [**Zomato Geospatial Analysis**](https://github.com/srdjan-injac/course_projects/tree/main/zomato_geospatial)
+- [**E-commerce Sales Data Analysis**](https://github.com/srdjan-injac/course_projects/tree/main/ecommerce_sale)
+- [**IPL Sports Case Study**](https://github.com/srdjan-injac/course_projects/tree/main/ipl_sports_case_analysis)
+- [**Youtube Text Data Analysis**](https://github.com/srdjan-injac/course_projects/tree/main/youtube_text_analysis)
 
 **==================================================================================**
 
 ## Personal Projects
 
-- **Analysis of Greatest Year in films**
+- **Identifying the Greatest Year in Film: An Analysis**
 - **NFL Teams Analysis**
 
 **==================================================================================**
