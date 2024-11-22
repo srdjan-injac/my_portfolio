@@ -38,3 +38,17 @@ This project focused on analyzing user responses and document classification acc
   - No response to error messages.
 - Evaluated document classification accuracy to support **continuous improvement**.
 - Identified trends in user response rates, **highlighting areas for optimization**.
+
+---
+
+### 3. Evaluating Insurance Policy Continuity with Verisk
+
+This project aimed to evaluate Verisk's utility in verifying applicant insurance policies for funded deals. The analysis focused on determining the continuity and cancellation history of insurance policies by examining transaction records, renewal patterns, and VIN matches. Insights from this analysis helped assess the reliability of Verisk data for additional use cases in insurance verification.
+
+**Key Technologies**: Python, SQL, JSON Parsing
+
+**Highlights**:
+- **Analyzed historical insurance policies** for VIN matches and cancellation patterns.
+- Identified continuous insurance policies with no cancellation history.
+- **Categorized policies** into "old" and "new" based on VIN matches for actionable insights.
+
