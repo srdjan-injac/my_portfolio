@@ -3,10 +3,6 @@
 
 This repository highlights my skills as a data analyst and showcases my key projects. Each project includes a detailed description, visualizations, and a link to its corresponding GitHub repository.
 
-## About Me
-
-I am a Senior Data Operations Analyst working for Vast. My expertise includes SQL, Python, data visualization, and statistical analysis.
-
 ---
 
 ## Projects
@@ -66,4 +62,17 @@ This project assessed the utility of Verisk's insurance data in verifying applic
 - Identified continuous insurance policies with no cancellation history.
 - Categorized policies based on policy activity and VIN matches for actionable insights.
 - Demonstrated that applicants with prior active policies were significantly **more likely to maintain future insurance coverage**.
+
+---
+
+## Course Projects
+
+Projects completed during online courses, showcasing my learning:
+
+- **Linear Regression Project**
+- **S&P 500 Time Series Project**
+- **Zomato Geospatial Analysis**
+- **E-commerce Sales Data Analysis**
+- **IPL Sports Case Study**
+- **Youtube Text Data Analysis**
 
