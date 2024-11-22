@@ -1,7 +1,6 @@
-
 ## Welcome to my portfolio
 
-This repository highlights my skills as a data analyst and showcases my key projects. Each project includes a detailed description, visualizations, and a link to its corresponding GitHub repository.
+This repository highlights my skills as a data analyst and features four key projects, each with its own dedicated GitHub Pages site for detailed descriptions, visualizations, and insights.Additionally it includes a collection of course projects and personal projects that demonstrate my continued learning and exploration of data analysis concepts.
 
 ---
 
