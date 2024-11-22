@@ -15,7 +15,7 @@ I am a Senior Data Operations Analyst working for Vast. My expertise includes SQ
 
 This project evaluates Verisk’s insurance verification accuracy by comparing database records with XML responses. I mimicked the validation rules used by the actual third-party provider, Verisk, using Python and conducted detailed analyses to extract trends and identify recurring patterns in verification outcomes. This approach provided actionable insights into the service's effectiveness.
 
-**Key Technologies**: SQL, Python, XML parsing, Matplotlib  
+**Key Technologies**: SQL, Python, XML parsing
 
 **Highlights**:
 - Implemented Python-based rules to replicate Verisk's verification process and ensure policy compliance.
