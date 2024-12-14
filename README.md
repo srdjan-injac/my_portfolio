@@ -79,7 +79,7 @@ Projects completed during online courses, showcasing my learning:
 
 ## Personal Projects
 
-- **Identifying the Greatest Year in Film: An Analysis**
+- [**Identifying the Greatest Year in Film: An Analysis**](https://github.com/srdjan-injac/greatest_year_in_film)
 - **NFL Teams Analysis**
 
 **==================================================================================**
