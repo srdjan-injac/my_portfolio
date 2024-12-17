@@ -62,24 +62,26 @@ This project assessed the utility of Verisk's insurance data in verifying applic
 - Categorized policies based on policy activity and VIN matches for actionable insights.
 - Demonstrated that applicants with prior active policies were significantly **more likely to maintain future insurance coverage**.
 
-**==================================================================================**
+---
+
 
 ## Course Projects
 
 Projects completed during online courses, showcasing my learning:
 
-- **Linear Regression Project**
 - [**S&P 500 Time Series Project**](https://github.com/srdjan-injac/course_projects/tree/main/s%26p_timeseries)
+- [**Linear Regression Project**](https://github.com/srdjan-injac/course_projects/tree/main/linear_regression_proj)
 - [**Zomato Geospatial Analysis**](https://github.com/srdjan-injac/course_projects/tree/main/zomato_geospatial)
 - [**E-commerce Sales Data Analysis**](https://github.com/srdjan-injac/course_projects/tree/main/ecommerce_sale)
 - [**IPL Sports Case Study**](https://github.com/srdjan-injac/course_projects/tree/main/ipl_sports_case_analysis)
 - [**Youtube Text Data Analysis**](https://github.com/srdjan-injac/course_projects/tree/main/youtube_text_analysis)
 
-**==================================================================================**
+---
+
 
 ## Personal Projects
 
 - [**Identifying the Greatest Year in Film: An Analysis**](https://github.com/srdjan-injac/greatest_year_in_film)
-- **NFL Teams Analysis**
+- [**NFL Teams Analysis**](https://github.com/srdjan-injac/nfl_teams_analysis)
 
-**==================================================================================**
+---
